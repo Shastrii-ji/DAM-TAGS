@@ -23,4 +23,3 @@ public class MyCoffeeServlet extends SlingAllMethodsServlet {
         out.write("Your order is pending...");
     }
 }
-
